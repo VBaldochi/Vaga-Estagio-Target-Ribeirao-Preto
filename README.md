@@ -36,21 +36,23 @@
   f) 200: A sequência é formada por números inciados com a letra D.
   
 
-## 4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+## 4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. 
 
-  Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
+Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
 
    
-    Ligue o interruptor 1 e deixe-o ligado por 10 minutos.
+Ligue o interruptor 1 e deixe-o ligado por 10 minutos.
     
-    Desligue o interruptor 1 e ligue o interruptor 2.
+Desligue o interruptor 1 e ligue o interruptor 2.
     
-    Vá para a sala das lâmpadas.
+Vá para a sala das lâmpadas.
     
-    Toque em cada lâmpada.
+Toque em cada lâmpada.
     
-      Se a lâmpada estiver quente, o interruptor 1 a controla.
+Se a lâmpada estiver quente, o interruptor 1 a controla.
       
-      Se a lâmpada estiver fria, mas a base estiver quente, o interruptor 2 a controla.
+Se a lâmpada estiver fria, mas a base estiver quente, o interruptor 2 a controla.
       
-      Se a lâmpada estiver fria e a base também estiver fria, o interruptor 3 a controla.
+Se a lâmpada estiver fria e a base também estiver fria, o interruptor 3 a controla.
